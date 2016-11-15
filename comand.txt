@@ -1,0 +1,10 @@
+git status
+git add 
+git commit -help
+git commit -m "message"
+git log
+git push -u origin master
+
+
+
+add-commit-push
